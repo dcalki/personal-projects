@@ -1,0 +1,2 @@
+Design Pricinples:
+1. Identify rge aspects of your application that vary and separate them from what stays the same.
