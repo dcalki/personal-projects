@@ -1,2 +1,8 @@
-Design Pricinples:
-1. Identify rge aspects of your application that vary and separate them from what stays the same.
+Design Principles:
+1. Identify the aspects of your application that vary and separate them from what stays the same. 
+Take the parts that vary and encapsulate them, so that later on you can alter or extend the parts 
+that vary without affecting those that don't.
+
+2. Program to an interface, not an implementation.
+
+3. Favor composition over inheritance.
