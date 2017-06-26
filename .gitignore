@@ -2,3 +2,7 @@ patterns/.settings
 patterns/.project
 patterns/.classpath
 patterns/target/*
+leetcode/.classpath
+leetcode/.project
+leetcode/.settings/org.eclipse.jdt.core.prefs
+leetcode/bin/*
