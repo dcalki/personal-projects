@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.dynabeast.samples</groupId>
-  <artifactId>effective_java</artifactId>
+  <artifactId>effective-java</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>effective_java</name>
+  <name>effective-java</name>
   <url>http://maven.apache.org</url>
 
   <properties>
