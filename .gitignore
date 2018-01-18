@@ -1,8 +1,12 @@
-patterns/.settings
+patterns/.settings/*
 patterns/.project
 patterns/.classpath
 patterns/target/*
 leetcode/.classpath
 leetcode/.project
-leetcode/.settings/org.eclipse.jdt.core.prefs
+leetcode/.settings/*
 leetcode/bin/*
+effective-java/.classpath
+effective-java/.project
+effective-java/.settings/*
+effective-java/target/*
