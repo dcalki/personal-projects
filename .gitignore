@@ -2,6 +2,7 @@ patterns/.settings/*
 patterns/.project
 patterns/.classpath
 patterns/target/*
+patterns/.idea/
 leetcode/.classpath
 leetcode/.project
 leetcode/.settings/*
