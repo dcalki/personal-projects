@@ -7,6 +7,8 @@ leetcode/.classpath
 leetcode/.project
 leetcode/.settings/*
 leetcode/bin/*
+leetcode/leetcode.iml
+leetcode/.idea/
 effective-java/.classpath
 effective-java/.project
 effective-java/.settings/*
